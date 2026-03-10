@@ -88,7 +88,7 @@ No heavy abstraction if the point is to understand the algorithm.
 ## Vibe check
 
 <p align="center">
-  <img src="assets/634706004_1399836214939505_5668184507588619348_n.jpg" alt="chibi vibe" width="150" />
+  <img src="assets/634706004_1399836214939505_5668184507588619348_n.jpg" alt="chibi vibe" width="500" />
 </p>
 
 <p align="center">
