@@ -1,87 +1,64 @@
-# TensorTonic Solutions
+# <p align="center">TensorTonic Solutions</p>
 
 <p align="center">
-  <img src="sandbox:/mnt/data/648958720_25914168041558726_7336544405348605952_n.jpg" width="700" alt="weeb banner" />
-</p>
-
-<h1 align="center">TensorTonic Solutions</h1>
-
-<p align="center">
-  <b>from-scratch ML / DL / AI problem solving</b><br>
-  Building models, math, and intuition one implementation at a time.
+  <img src="assets/608876472_122211523328350683_6649949182120606657_n.jpg" alt="TensorTonic banner" width="720" />
 </p>
 
 <p align="center">
-  <img src="sandbox:/mnt/data/634706004_1399836214939505_5668184507588619348_n.jpg" width="140" alt="chibi weeb" />
+  <b>from-scratch ML / DL / AI implementations</b><br>
+  <sub>building intuition, one gradient at a time</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-From%20Scratch-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DL-Internals-FF4D6D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-CV-Metrics?style=for-the-badge&color=00C2FF" />
+  <img src="https://img.shields.io/badge/NumPy-Only-111827?style=for-the-badge&logo=numpy" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/aura-maximum-f5c2e7?style=flat-square" />
+  <img src="https://img.shields.io/badge/debugging-gradients-89dceb?style=flat-square" />
+  <img src="https://img.shields.io/badge/weeb-core-f9e2af?style=flat-square" />
 </p>
 
 ---
 
 ## About
 
-Welcome to my **TensorTonic solutions repository**.
+This repository contains my personal solutions to problems from [TensorTonic](https://tensortonic.com).
 
-This repo contains my personal solutions to Machine Learning, Deep Learning, NLP, Computer Vision, Optimization, Metrics, Recommender Systems, and MLOps problems from [TensorTonic](https://tensortonic.com).
-
-The idea is simple:
-
-> less black box  
-> more first principles  
-> more implementation  
-> more real ML intuition
-
----
-
-## What is TensorTonic?
-
-[TensorTonic](https://tensortonic.com) is a platform where you implement core ML and DL algorithms from scratch.
-
-Instead of only calling library APIs, you actually build the mechanics yourself:
-- activations
-- losses
-- optimizers
-- evaluation metrics
-- probabilistic models
-- neural net internals
-- ranking systems
-- data processing pipelines
-- MLOps logic
-
-Basically:  
-**LeetCode energy, but for AI/ML brains.**
+TensorTonic is a platform focused on implementing core Machine Learning and Deep Learning algorithms from scratch.  
+This repo is my running archive of those solutions.
 
 ---
 
 ## Why this repo exists
 
-I made this repo to document my journey through:
-- machine learning fundamentals
-- deep learning internals
-- optimization methods
-- NLP and transformer mechanics
-- evaluation and calibration
-- recommender systems
-- production-style ML logic
+A lot of people can call the library.
 
-A lot of people use ML tools.
+I want to understand the machinery.
 
-I want to understand how they actually work.
+So this repository is focused on:
+- implementing ML and DL fundamentals manually
+- building intuition for optimization, probability, and model behavior
+- understanding what actually happens under the hood
+- turning theory into code
 
 ---
 
-## Topics covered
+## What I work on here
 
-This repository includes solutions related to:
-
+Topics include:
 - Machine Learning
 - Deep Learning
 - Neural Networks
 - Transformers
 - NLP
 - Computer Vision
+- Recommender Systems
 - Optimization
 - Metrics & Evaluation
-- Recommender Systems
 - Data Processing
 - MLOps
 
@@ -89,16 +66,12 @@ This repository includes solutions related to:
 
 ## Philosophy
 
-This repo is built around a few rules:
-
-- understand the math
-- implement the algorithm
-- keep things readable
-- learn the system, not just the syntax
-
-No magic.  
-No fake understanding.  
-Just code, logic, gradients, and suffering.
+- less black box
+- more first principles
+- more implementation
+- more intuition
+- more pain
+- more aura
 
 ---
 
@@ -108,27 +81,14 @@ Mostly:
 - Python
 - NumPy
 
-The goal is to stay close to the fundamentals and not hide the important parts behind frameworks.
-
----
-
-## Repository note
-
-These are my personal solutions, automatically synchronized from TensorTonic.
-
-This repo is mainly for:
-- learning
-- reference
-- tracking progress
-- building stronger ML instincts
+No heavy abstraction if the point is to understand the algorithm.
 
 ---
 
 ## Vibe check
 
 <p align="center">
-  <img src="sandbox:/mnt/data/648958720_25914168041558726_7336544405348605952_n.jpg" width="420" alt="tea weeb" />
-  <img src="sandbox:/mnt/data/634706004_1399836214939505_5668184507588619348_n.jpg" width="160" alt="chibi weeb small" />
+  <img src="assets/634706004_1399836214939505_5668184507588619348_n.jpg" alt="chibi vibe" width="150" />
 </p>
 
 <p align="center">
@@ -137,9 +97,17 @@ This repo is mainly for:
 
 ---
 
+## Notes
+
+- These are educational implementations
+- Focus is on correctness, clarity, and fundamentals
+- Solutions are synchronized from TensorTonic
+
+---
+
 ## Disclaimer
 
-This repository contains my own solutions to TensorTonic problems for educational purposes.
+This repository contains my own solutions to TensorTonic problems for learning and reference purposes.
 
-Please support the original platform here:  
+Support the original platform here:  
 [TensorTonic](https://tensortonic.com)
