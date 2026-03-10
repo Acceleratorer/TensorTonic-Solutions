@@ -1,7 +1,7 @@
 # <p align="center">TensorTonic Solutions</p>
 
 <p align="center">
-  <img src="assets/608876472_122211523328350683_6649949182120606657_n.jpg" alt="TensorTonic banner" width="720" />
+  <img src="assets/608876472_122211523328350683_6649949182120606657_n.jpg" alt="TensorTonic banner" width="720" height="720" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ No heavy abstraction if the point is to understand the algorithm.
 ## Vibe check
 
 <p align="center">
-  <img src="assets/634706004_1399836214939505_5668184507588619348_n.jpg" alt="chibi vibe" width="500" />
+  <img src="assets/558537376_776575328585927_638396142575861389_n.jpg" alt="aura farming" width="500" />
 </p>
 
 <p align="center">
