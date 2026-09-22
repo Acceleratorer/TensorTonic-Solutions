@@ -174,6 +174,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Complete GAN System | Assemble a complete GAN system that generates samples, scores them with the discriminator, and returns both outputs. | https://www.tensortonic.com/research/gan/gan-full-network |
 | GAN Training Loop | Implement one GAN training iteration with separate discriminator and generator forward and update steps. | https://www.tensortonic.com/research/gan/gan-training-loop |
 | Complete GRU Network | Assemble a GRU sequence forward pass that recurrently updates and returns hidden states across time steps. | https://www.tensortonic.com/research/gru/gru-full-network |
+| Block Attention Residuals | Implement Kimi K3 block attention residuals with block-local history, learned mixing weights, and normalized outputs. | https://www.tensortonic.com/research/kimik3/k3-block-attnres |
 | Gated MLA | Build Kimi K3 Gated MLA with low-rank query and KV projections, per-head gating, RoPE inputs, and latent caching. | https://www.tensortonic.com/research/kimik3/k3-gated-mla |
 | KDA Recurrence | Implement Kimi K3's KDA recurrence with gated state updates, normalized queries and keys, and ordered token readouts. | https://www.tensortonic.com/research/kimik3/k3-kda-recurrence |
 | Complete LSTM Network | Assemble an LSTM sequence forward pass that carries hidden and cell states across every time step. | https://www.tensortonic.com/research/lstm/lstm-full-network |
